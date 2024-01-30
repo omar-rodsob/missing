@@ -4,11 +4,14 @@
             "age":"43",
             "gender":"Hombre",
             "identified":"Hombre",
-            "location": "zapopan mexico",
+            "country": "zapopan mexico",
+            "state":"jalisco",
+            "city":"zapopan",
             "signals":"cicatriz en la frente",
             "eyes":"negros",
             "height":"alrededor de 1.65",
             "skin":"clara",
             "picture":"/pics/1.jpg",
+            "status":"missing",
             "description":" visto por ultima vez x parte iba hacia bla bla visto por ultima vez x parte iba hacia bla bla visto por ultima vez x parte iba hacia bla bla visto por ultima vez x parte iba hacia bla bla visto por ultima vez x parte iba hacia bla bla visto por ultima vez x parte iba hacia bla bla visto por ultima vez x parte iba hacia bla bla"
         }
